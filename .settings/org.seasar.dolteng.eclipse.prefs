@@ -1,0 +1,8 @@
+DaoType=S2Dao
+DefaultResourcePath=/FutoWiki/src/main/resources
+DefaultRootPackage=co.jp.rakus
+DefaultSrcPath=/FutoWiki/src/main/java
+ServletPath=/FutoWiki
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp/
+eclipse.preferences.version=1
